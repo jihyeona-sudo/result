@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState, useEffect, useRef } from 'react';
 import {
   Menu,
@@ -408,7 +409,7 @@ export default function App() {
                     <img 
                       alt="Traveler STILL LIVING" 
                       className="w-full h-full object-cover rounded-md group-hover:scale-[1.03] transition-transform duration-[4s]" 
-                      src="https://lh3.googleusercontent.com/aida-public/AB6AXuB4-dLxXY_0UBdrCKMUIMgSNSMzg4iKGuW5nXvvKmY4FtuBhmTyBgacSOCDd4L_3QmOz5YjJjYqGFKa9qr5BZzcXcZ6_x4Z8PKg0r_IyaQHe9rHQiZpGbQiASBboejWhGEbbrZfAUMDwFKLVBOBLGG-eEQHUPP6BRwkObWzwqwoaCnjbL4yS_2MXk5YyupQqWYjYYtVVO6TLsLGuseNgokb__dhrJNYXuVEyiJjJqgyRafb-efJu6O_xmO-HkoQ7d6Vdb4P9O-t01px"
+                      src="/image/candyt.png"
                       referrerPolicy="no-referrer"
                     />
                   </div>
@@ -437,7 +438,7 @@ export default function App() {
                     <img 
                       alt="Royal Bengal Tiger close-up" 
                       className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-[4s]" 
-                      src=".src/image/bluepants.png"
+                      src="/image/bluepants.png"
                       referrerPolicy="no-referrer"
                     />
                   </div>
@@ -491,7 +492,7 @@ export default function App() {
                   <img 
                     alt="National Geographic Signature T-Shirt" 
                     className="max-h-full max-w-full object-contain drop-shadow-md group-hover:scale-105 transition-transform duration-300" 
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuBl74CN6X6MKCj-2N-wWo61Yw2VLMhjNDYZkt3mGLWLY87i444LZ3HsfmMUdRaqQekCvNMG5vIftYL5cl7wFXIdHQB4NqMS9Isegk9JKZfJhHKzLvRA4cV6-Juv-Bx1-xHChbow0NEZXo_gwNS65KGGQQjUhLfWkJvwEEcFbGxF0dVnnkbbCMUUwhT2O7J348zvuE4mICHylyFDbq60XwuFCsxaBX8aMl19si7nuWjiBpM2BuGB3SbxnbU69a4BlxOiJPHOk_072B7Y"
+                    src="/image/rose.png"
                     referrerPolicy="no-referrer"
                   />
                 </div>

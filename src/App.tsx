@@ -409,7 +409,7 @@ export default function App() {
                     <img 
                       alt="Traveler STILL LIVING" 
                       className="w-full h-full object-cover rounded-md group-hover:scale-[1.03] transition-transform duration-[4s]" 
-                      src="/image/candyt.png"
+                      src="./image/candyt.png"
                       referrerPolicy="no-referrer"
                     />
                   </div>
@@ -438,7 +438,7 @@ export default function App() {
                     <img 
                       alt="Royal Bengal Tiger close-up" 
                       className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-[4s]" 
-                      src="/image/bluepants.png"
+                      src="./image/bluepants.png"
                       referrerPolicy="no-referrer"
                     />
                   </div>
@@ -492,7 +492,7 @@ export default function App() {
                   <img 
                     alt="National Geographic Signature T-Shirt" 
                     className="max-h-full max-w-full object-contain drop-shadow-md group-hover:scale-105 transition-transform duration-300" 
-                    src="/image/rose.png"
+                    src="./image/rose.png"
                     referrerPolicy="no-referrer"
                   />
                 </div>
